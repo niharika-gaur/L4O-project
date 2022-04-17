@@ -1,0 +1,1412 @@
+body
+{
+    margin: 0%;
+}
+
+.upper
+{
+    display: flex;
+    background-color: #F8F8F8;
+    height: 130px;
+    width: 100%;
+    top: 0px;
+    left: 0px;
+    justify-content: flex-end;
+}
+
+.why
+{
+    position: relative;
+    line-height: 75px;
+    width: 97px;
+    height: 33px;
+    margin: 10px;
+    right: 18%;
+    top: 10%;
+    font-weight: 400;
+    font-size: 30px;
+    text-align: center;
+    color: #172233;
+    font-family: "Roboto";
+    font-style: normal;
+}
+
+.about
+{
+  position: relative;
+  right: 16%;
+  top: 10%;
+  width: 100px;
+  margin: 10px;
+  line-height: 75px;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  color: #172233;
+}
+
+.box
+{
+  position: relative;
+  right: 14%;
+  width: 220px;
+  height: 70px;
+  background: linear-gradient(93.58deg, #3FC7F4 0%, #29B67F 100%);
+  border-radius: 7px;
+  top: 20%;
+}
+
+.register-now
+{
+  position: relative;
+  width: 180px;
+  height: 33px;
+  left: 20px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 75px;
+  text-align: center;
+  
+  color: #FFFFFF;
+}
+
+.content
+{
+  padding: 64px 16px;
+  max-height: 1200px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.color
+{
+  color: #29B67F;
+}
+.text
+{
+  display: inline-block;
+  width: 40%;
+  height: 50%;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  color: #172233;
+}
+
+.text-1
+{
+    width: 90%;
+    height: 90px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    color: #828282;
+    overflow: hidden;
+    text-overflow: clip; 
+}
+
+.rectangle
+{
+  float: right;
+  background: #FFFDFD;
+  box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  width: 450px;
+  height: 500px;
+}
+
+.line
+{
+  position: relative;
+  top: 5%;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 40px;
+  line-height: 47px;
+  text-align: center;
+
+  color: #172233;
+}
+
+.phone-no
+{
+  position: relative;
+  top: 10%;
+  left: 10%;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #828282;
+}
+
+.border
+{
+  position: relative;
+  left: 10%;
+  top: 15%;
+  width: 80%;
+  border: 1px solid #828282;
+  background-color: #828282;
+}
+
+.email
+{
+  position: relative;
+  top: 20%;
+  left: 10%;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #828282;
+}
+
+.border-1
+{
+  position: relative;
+  left: 10%;
+  top: 25%;
+  width: 80%;
+  border: 1px solid #828282;
+  background-color: #828282;
+}
+
+.create-password
+{
+  position: relative;
+  top: 30%;
+  left: 10%;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #828282;
+}
+
+.border-2
+{
+  position: relative;
+  left: 10%;
+  top: 35%;
+  width: 80%;
+  border: 1px solid #828282;
+  background-color: #828282;
+}
+
+.confirm-password
+{
+  position: relative;
+  top: 40%;
+  left: 10%;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 21px;
+  color: #828282;
+}
+
+.border-3
+{
+  position: relative;
+  left: 10%;
+  top: 45%;
+  width: 80%;
+  border: 1px solid #828282;
+  background-color: #828282;
+}
+
+.box-1
+{
+    position: relative;
+    width: 180px;
+    height: 40px;
+    right:50%;
+    top: 50%;
+    text-align: center;
+    background:#C4C4C4;
+    border-radius: 5px;
+}
+
+.cancel
+{
+    position: relative;
+    top: 6px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #FFFFFF;
+}
+
+.box-2
+{
+  position: relative;
+  width: 180px;
+  height: 40px;
+  left: 55%;
+  top: 50%;
+  text-align: center;
+  background: linear-gradient(93.58deg, #3FC7F4 0%, #29B67F 100%);
+  border-radius: 5px;
+}
+
+.submit
+{
+  position: relative;
+  top: 6px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #FFFFFF;
+}
+
+.account
+{
+  position: relative;
+  top:55%;
+  right:55%;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: right;
+
+  color: #828282;
+}
+
+.sign-in
+{
+  position: relative;
+
+  right: 40%;
+  top: 50.5%;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 23px;
+  text-align: right;
+
+  color: #29B67F;
+}
+
+.content-2
+{
+  position: relative;
+  width: 1000px;
+  height: 1200px;
+  right: 0px;
+  top: 200px;
+  margin: 0 auto;
+}
+
+.image-1
+{
+  position: relative; 
+  width:350px;
+  height:300px;
+}
+
+.text-2
+{
+  display: block;
+  width: 40%;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 59px;
+
+  color: #172233;
+}
+
+.text-3
+{
+  display: block;
+  width: 35%;
+  top: 35%;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+
+  color: #828282;
+
+}
+
+.image-2
+{
+  float: right;
+  position: absolute;
+  left: 65%;
+  top: 0%;
+  width: 350px;
+  height: 300px;
+}
+
+.text-4
+{
+  display: block;
+  position: relative;
+  width: 40%;
+  left: 60%;
+  bottom: 23%;
+  text-align: right;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 59px;
+
+  color: #172233;
+}
+
+.text-5
+{
+  position: absolute;
+  width: 35%;
+  top: 35%;
+  left: 65%;
+  text-align: right;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+
+  color: #828282;
+}
+
+.image-3
+{
+  position: absolute;
+  width: 350px;
+  height: 300px;
+  top: 55%;
+
+}
+.image-4
+{
+  float: right;
+  position: absolute;
+  left: 65%;
+  top: 55%;
+  width: 350px;
+  height: 300px;
+}
+
+.text-6
+{
+  position: relative;
+  width: 40%;
+  top:22%;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 59px;
+
+  color: #172233;
+}
+
+.text-7
+{
+  display: block;
+  position: relative;
+  width: 35%;
+  top: 250px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+
+  color: #828282;
+}
+
+.text-8
+{
+  display: block;
+  position: relative;
+  width: 40%;
+  left: 60%;
+  bottom: 2%;
+  text-align: right;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 59px;
+
+  color: #172233;
+}
+
+.text-9
+{
+  position: absolute;
+  width: 35%;
+  top: 89%;
+  left: 65%;
+  text-align: right;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 38px;
+
+  color: #828282;
+}
+
+.line-1
+{
+  position: absolute;
+  width: 850px;
+  height: 0px;
+  left: 70%;
+  top: 50%;
+  border-left: 2px solid #E8E8E8;
+  transform: rotate(89.86deg);
+}
+
+.line-2
+{ 
+  position: absolute;
+  width: 850px;
+  height: 0px;
+  left: 10%;
+  top: 50%;
+
+  border: 2px solid #E8E8E8;
+  transform: rotate(179.85deg);
+}
+
+.content-3
+{
+  position: absolute;
+  padding: 64px 16px;
+  height: 60%;
+  width: 97.5%;
+  margin: 0 auto;
+  top: 2050.14px;
+  background: linear-gradient(100.08deg, #29B67F 0%, #3FC7F4 95.98%);
+}
+
+.image-5
+{
+  position: absolute;
+  float: right;
+  width: 80%;
+  top:10%;
+  left: 7%;
+  height: 300px;
+}
+
+.circle
+{
+  float: right;
+  position: absolute;
+  width: 30%;
+  height: 80%;
+  right: 164.29px;
+  border-radius: 50%;
+  background-color:  #FFFFFF;
+}
+
+.text-10
+{
+  position: absolute;
+  width: 35%;
+  left: 144px;
+  top: 30%;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 64px;
+  color: #FFFFFF;
+}
+
+.text-11
+{
+  width: 95%;
+  font-size: 25px;
+  line-height: 38px;
+}
+
+.content-4
+{
+  position: relative;
+  padding: 64px 16px;
+  margin: 0 auto;
+  width: 865px;
+  height: 281.89px;
+  top: 760px;
+}
+
+.text-12
+{
+  position: absolute;
+  width: 827px;
+  height: 94px;
+  left: calc(50% - 827px/2);
+  top: 20%;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 38px;
+  text-align: center;
+
+  color: #828282;
+}
+
+.text-13
+{
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.box-3
+{
+  position: relative;
+  width: 275.34px;
+  height: 68.84px;
+  left: calc(50% - 275.34px/2 - 0px);
+  top: 70%;
+  background: linear-gradient(93.58deg, #3FC7F4 0%, #29B67F 100%);
+  border-radius: 6.88356px;
+  text-align: center;
+}
+.sign-up
+{
+  position: absolute;
+  top: 25%;
+  left: 35%;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 28px;
+
+  color: #FFFFFF;
+}
+
+.content-5
+{
+  position: relative;
+  padding: 64px 16px;
+  margin: 0 auto;
+  width: 97.5%;
+  height: 650px;
+  top: 720px;
+
+  background: linear-gradient(101.13deg, #090736 1.15%, #172233 98.16%);
+}
+
+.image-7
+{
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  left: 726px;
+  top: 244.37px;
+}
+
+.text-14
+{
+  display: block;
+  position: absolute;
+  width:  596px;
+  height: 180px;
+  left: 10%;
+  top: 30%;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 56px;
+
+  color: #FFFFFF;
+
+}
+
+.text-15
+{
+  position:relative;
+  width: 480px;
+  height: 89px;
+  left: 9%;
+  top: 50%;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 38px;
+
+  color: #FFFFFF;
+}
+
+.image-6
+{
+  position: absolute;
+  left: 0%;
+  bottom: 0%;
+}
+
+.dots
+{
+  position: absolute;
+  top: 2%;
+  color: #FFFFFF;
+  width: 2.8px;
+  height: 2.8px;
+}
+
+.dot-1
+{
+  color: #29B67F;
+}
+
+.dots-1
+{
+  position: absolute;
+  top: 2%;
+  left:3%;
+  color: #FFFFFF;
+  width: 2.8px;
+  height: 2.8px;
+}
+
+.dots-2
+{
+  position: absolute;
+  top: 2%;
+  left:5%;
+  color: #FFFFFF;
+  width: 2.8px;
+  height: 2.8px;
+}
+
+.dots-3
+{
+  position: absolute;
+  top: 2%;
+  left:7%;
+  color: #FFFFFF;
+  width: 2.8px;
+  height: 2.8px;
+}
+
+.dots-4
+{
+  position: absolute;
+  top: 2%;
+  left:9%;
+  color: #FFFFFF;
+  width: 2.8px;
+  height: 2.8px;
+}
+
+.dots-5
+{
+  position: absolute;
+  top: 2%;
+  left:11%;
+  color: #FFFFFF;
+  width: 2.8px;
+  height: 2.8px;
+}
+
+.dots-6
+{
+  position: absolute;
+  top: 2%;
+  left:13%;
+  color: #FFFFFF;
+  width: 2.8px;
+  height: 2.8px;
+}
+
+.dots-7
+{
+  position: absolute;
+  top: 2%;
+  left:15%;
+  color: #FFFFFF;
+  width: 2.8px;
+  height: 2.8px;
+}
+
+.dots-8
+{
+  position: absolute;
+  top: 2%;
+  left:17%;
+  color: #FFFFFF;
+  width: 2.8px;
+  height: 2.8px;
+}
+
+.content-6
+{
+  position: relative;
+  padding: 64px 16px;
+  margin: 0 auto;
+  width: 97.5%;
+  height: 500px;
+  top: 720px;
+
+  background: linear-gradient(282.48deg, #39B7FD -5.5%, #000000 60.76%);
+
+}
+
+.image-8
+{
+  position: relative;
+  width: 350px;
+  height: 300px;
+  top: 150px;
+  left: 10%
+}
+
+.text-16
+{
+  position:relative;
+  width: 40%;
+  height: 180px;
+  left: 50%;
+  bottom: 30%;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 56px;
+
+  color: #FFFFFF;
+}
+
+.text-17
+{
+  display: block;
+  position:absolute;
+  width: 40%;
+  bottom:-1%;
+  left: 50%;
+  font-size: 30px;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  line-height: 56px;
+  color: #FFFFFF;
+}
+
+.plus
+{
+  position: absolute;
+  left: 23px;
+  width: 40px;
+  height: 40px;
+  color: #39B7FD;
+}
+.circle-2
+{
+  position: absolute;
+  width:140.18px;
+  height:139.6px;
+  left: 86.35%;
+  right: 4%;
+  top: 6.14%;
+  bottom: 72.55%;
+  border-radius: 50%;
+  border: 0.483px solid #FFFFFF;
+}
+
+.content-7
+{
+  position: relative;
+  width: 100%;
+  height: 200px;
+  right: 0%;
+  top: 720px;
+}
+
+.icons
+{
+  position: absolute;
+  width: 154.45px;
+  height: 38.06px;
+  right: 10%;
+  top:40%;
+  text-align: right;
+}
+.logo
+{
+  position: absolute;
+  width: 28%;
+  left: 4%;
+  bottom: 15%;
+  color: #757575;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 24px;
+}
+
+.block
+{
+  display: flex;
+  position: relative;
+  justify-content: center;
+  top: 45%;
+  color: #757575;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 31px;
+}
+
+.term
+{
+  position: relative;
+  left: 2%;  
+}
+
+.policy
+{
+  position: relative;
+  left: 4%;
+}
+
+
+
+@media  screen and (max-width:440px)
+ {
+   .body
+   {
+    width: 428px;
+    height: 5463px;
+   }
+  .upper
+{
+    height: 81px;
+    width: 428px;
+}
+.menu-icon
+{
+  position:relative;
+  top: 25%;
+  right: 200px;
+  width: 48px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+}
+.why
+{
+  display: none;
+}
+
+.about
+{
+  display: none;
+}
+
+.box
+{
+  right: 2%;
+  width: 157px;
+  height: 47px;
+}
+
+.register-now
+{
+  position: absolute;
+  top: 10px;
+  left: -10px;
+  width: 180px;
+  height: 33px;
+  font-size: 20px;
+  line-height: 23px;
+}
+
+.text
+{
+  display: block;
+  width: 80%;
+  height: 50%;
+  font-size: 40px;
+}
+
+.text-1
+{
+  display: block;
+  width: 140%;
+  height: 110px;
+  font-size: 30px;
+  font-weight: 400; 
+}
+
+.rectangle
+{
+  position: relative;
+  float: none;
+  border-radius: 50px;
+  width: 326px;
+  height: 445px;
+  left: 8%;
+}
+
+.box-1
+{
+    width: 120px;
+    height: 36px;
+    border-radius: 3px;
+}
+
+.box-2
+{
+ top: 188px;
+  width: 111px;
+  height: 34px;
+}
+
+.account
+{
+  top:200px;
+  right:40%;
+}
+
+.sign-in
+{
+  right: 10%;
+  top: 175px;
+}
+.content-2
+{
+  position: none;
+  top:0px;
+}
+
+.image-1
+{ 
+  Width:285.68px;
+  Height:185.68px;
+  left: 71.16px;
+  top: 0px;
+}
+
+.text-2
+{
+  font-weight: 700;
+  font-size: 48px;
+  text-align: center;
+}
+
+.text-3
+{
+  width: 45%;
+  font-size: 30px;
+  text-align: center;
+}
+
+.line-1
+{
+  display: none;
+}
+
+.line-2
+{
+  display: none;
+}
+
+.image-2
+{
+  float: none;
+  width:290px;
+  height:180px;
+  left: 72px;
+  top: 40%;
+  
+}
+
+.text-4
+{
+  position: absolute;
+  width: 40%;
+  left: 0%;
+  top: 55%;
+  text-align: center;
+  font-size: 48px;
+}
+
+.text-5
+{
+  position: absolute;
+  width: 45%;
+  top: 65%;
+  left: 0%;
+  text-align: center;
+  font-size: 30px;
+}
+
+.image-3
+{
+  width: 290px;
+  height: 180px;
+  top: 80%;
+  left: 72px;
+}
+
+.text-6
+{
+  position: absolute;
+  width: 40%;
+  top:95%;
+  font-size: 48px;
+  text-align: center;
+}
+
+.text-7
+{
+  position: absolute;
+  width: 45%;
+  top: 105%;
+  left: 0%;
+  font-weight: 400;
+  font-size: 30px;
+  text-align: center;
+}
+
+.image-4
+{
+  float: none;
+  position: absolute;
+  left: 72px;
+  top: 120%;
+  width: 290px;
+  height: 180px;
+}
+
+.text-8
+{
+  display: block;
+  position: absolute;
+  width: 45%;
+  left: 0%;
+  top: 135%;
+  text-align: center;
+  font-size: 48px;
+}
+
+.text-9
+{
+  position: absolute;
+  width: 45%;
+  top: 145%;
+  left: 0%;
+  text-align: center;
+  font-size: 30px;
+}
+.content-3
+{
+  position: relative;
+  padding: 16px;
+  width: 428px;
+  height: 655px;
+  top: 700px;
+}
+
+.image-5
+{
+  position: absolute;
+  float: none;
+  width: 244.58px;
+  height: 243.44px;
+  left: 10%;
+}
+
+.circle
+{
+  float: none;
+  position: absolute;
+  width: 311.46px;
+  height: 310px;
+  left: 70px;
+}
+
+.text-10
+{
+  position: absolute;
+  display: block;
+  width: 80%;
+  left: 40px;
+  top: 50%;
+  font-size: 35px;
+  text-align: center;
+}
+
+.text-11
+{
+  position: absolute;
+  width: 100%;
+  font-size: 30px;
+  text-align: center;
+  left: 5px;
+}
+
+.content-4
+{
+  width: 428px;
+  height: 655px;
+}
+
+.text-12
+{
+  position: relative;
+  width: 402px;
+  left:0%;
+  top:5px;
+  height: 116px;
+  font-size: 40px;
+}
+
+.box-3
+{
+  width: 275.34px;
+  height: 68.84px;
+  border-radius: 27px;
+  top:140px;
+}
+
+.content-5
+{
+  position: relative;
+  width: 428px;
+  height: 650px;
+  top: 380px;
+}
+
+
+.image-7
+{
+  position: absolute;
+  width: 310px;
+  height: 308px;
+  left: 10%;
+  top: 15%;
+}
+
+.text-14
+{
+  position:relative;
+  width: 80%;
+  height: 116px;
+  left: 5%;
+  top: 55%;
+  overflow: hidden;
+  text-overflow: clip;
+  text-align: center;
+  font-size: 40px;
+}
+
+  .text-15
+{
+  width: 368px;
+  height: 49px;
+  left: 5%;
+  text-align: center;
+  top: 55%;
+  font-weight: 400;
+  font-size: 30px;
+}
+
+
+.image-6
+{
+ display: none;
+}
+
+.dots
+{
+  left: 5%;
+  width: 2.35px;
+  height: 2.12px;
+}
+
+
+.dots-1
+{
+  left:7%;
+  width: 2.35px;
+  height: 2.12px;
+}
+
+.dots-2
+{
+  left:9%;
+  width: 2.35px;
+  height: 2.12px;
+}
+
+.dots-3
+{
+  left:11%;
+  width: 2.35px;
+  height: 2.12px;
+}
+
+.dots-4
+{
+  left:13%;
+  width: 2.35px;
+  height: 2.12px;
+}
+
+.dots-5
+{
+  left:15%;
+  width: 2.35px;
+  height: 2.12px;
+}
+
+.dots-6
+{
+  left:17%;
+  width: 2.35px;
+  height: 2.12px;
+}
+
+.dots-7
+{
+  top: 2%;
+  left:19%;
+  width: 2.35px;
+  height: 2.12px;
+}
+
+.dots-8
+{
+  left:21%;
+  width: 2.35px;
+  height: 2.12px;
+}
+
+.content-6
+{
+  width: 428px;
+  height: 400px;
+  top: 380px;
+
+}
+
+.image-8
+{
+  width: 230px;
+  height: 161px;
+  top: 5%;
+  left: 20%
+}
+
+.text-16
+{
+  width: 80%;
+  height: 116px;
+  left: 5%;
+  top:0%;
+  font-size: 44px;
+  text-align: center;
+  overflow: hidden;
+  text-overflow: clip;
+}
+
+.text-17
+{
+  position: relative;
+  left: 5%;
+  width: 85%;
+  text-align: center;
+  bottom: 5%;
+  font-size: 30px;
+}
+
+.plus
+{
+  display: none;
+}
+.circle-2
+{
+  display: none;
+}
+.content-7
+{
+  top: 370px;
+  width: 428px;
+  height: 190px;
+}
+
+.icons
+{
+  width: 176px;
+  height: 38px;
+  right: 30%;
+  top:10%;
+}
+.logo
+{
+  position:absolute;
+  width: 80%;
+  left: 10%;
+  bottom: 35%;
+  text-align: center;
+}
+
+.block
+{
+  display: flex;
+  justify-content: space-evenly;
+  position: relative;
+  top: 70%;
+  left: 0%;
+  font-size: 15px;
+}
+.term
+{
+  position: relative;
+  left: 2%;  
+}
+
+.policy
+{
+  position: relative;
+  left: 3%;
+}
+
+}
